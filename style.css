@@ -1,0 +1,43 @@
+/*  Εξωτερικό φύλλο στυλ 
+   για το site 
+   Αρχείο style.css
+*/
+
+h2{
+    color: red; 
+    text-align: center; 
+}
+p{
+   font-size: 20px;
+   margin :25px;
+   padding:5px;
+
+}
+ol{
+
+    font-size: 25px;
+}
+#p02Id03
+{
+
+    list-style: lower-greek;
+    font-size: large;
+    font-style: italic;
+    border-style: solid;
+}
+
+.class1
+{
+  background-color: aqua;
+
+}
+ul{
+    list-style:circle;          
+}
+img {
+    border:  solid;
+    border-radius: 4px;
+    padding: 15px;
+    width: 150px;
+    
+  }
