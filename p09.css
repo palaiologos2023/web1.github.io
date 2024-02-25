@@ -1,5 +1,5 @@
 /* Εφαρμογή 7: Εξωτερικό φύλλο στυλ
-   Αρχείο p07.css
+   Αρχείο p09.css
 */
 
 @charset "utf-8";
@@ -16,9 +16,9 @@ ul{
 
 ol{
     list-style:lower-greek;
-    font-weight:bolder;
+   
+}
+li {
+    font-size: 20px;
 }
 
-dd {
-    word-spacing:10px;
-}
